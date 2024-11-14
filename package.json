@@ -1,0 +1,25 @@
+{
+  "name": "openai_article_generator",
+  "version": "1.0.0",
+  "description": "Aplikacja do generowania artykułów HTML przy użyciu modelu OpenAI GPT-3.5, która pobiera artykuł w formie tekstu, przekształca go na kod HTML z odpowiednimi tagami, obrazkami (w formie placeholderów) oraz podpisami.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarSpace/ZadanieOxido.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DarSpace/ZadanieOxido/issues"
+  },
+  "homepage": "https://github.com/DarSpace/ZadanieOxido#readme"
+}
